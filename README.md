@@ -8,4 +8,5 @@
 python 3.5.2
 
 사용 라이브러리
+requests (pip3 install requests)
 BeautifulSoup4 (pip3 install BeautifulSoup4)
